@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1027647765822",
+    "firebase_url": "https://mnnit-app-8f5a7.firebaseio.com",
+    "project_id": "mnnit-app-8f5a7",
+    "storage_bucket": "mnnit-app-8f5a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027647765822:android:781bab735a2eb438",
+        "android_client_info": {
+          "package_name": "com.example.mnnit_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027647765822-akch2cln79ldvlgbr1q00d2t9h70g6hf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUjqk6-176bQ9VLtXcaWBDbTmkuBvaGrU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1027647765822-akch2cln79ldvlgbr1q00d2t9h70g6hf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
